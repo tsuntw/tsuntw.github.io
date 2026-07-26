@@ -11,3 +11,13 @@
   overflow-wrap: break-word;
   word-break: break-word;
 }
+
+.post-title {
+  font-size: 28px;
+  letter-spacing: initial;
+}
+
+@media screen and (max-width: 800px) {
+  font-size: 26px;
+  letter-spacing: initial;
+}
