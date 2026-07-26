@@ -4,8 +4,6 @@ title: "# 113 Quarter-Life Crisis"
 date: 2022-12-23
 ---
 
-# # 113 Quarter-Life Crisis
-
 在八年前，有一篇文章紅極一時，標題大概是「我在 12 個月創了 12 個業」。
 
 文中的主角叫 Pieter Levels（對，是 Pieter，不是 Peter），他是荷蘭人，在大學畢業後他就變賣身上家當，帶著一只皮箱搬去東南亞（忘了哪個國家），藉著那裡相較荷蘭較低的生活成本，在那裡當個「Digital Nomad / 數位遊牧」工作者。
