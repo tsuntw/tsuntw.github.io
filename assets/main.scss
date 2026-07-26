@@ -16,6 +16,19 @@
   color: #424242;
 }
 
+a.post-link {
+  font-size: unset;
+  color: #444444;
+}
+
+a.post-link:visited {
+  color: #666666;
+}
+
+.post-meta {
+  font-size: 12px;
+}
+
 .wrapper {
   max-width: 600px;
 }
