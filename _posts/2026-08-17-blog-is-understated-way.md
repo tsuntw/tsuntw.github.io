@@ -78,7 +78,7 @@ date: 2026-08-17
 
 <img width="1125" height="1393" alt="IMG_1710" src="/assets/img/2026-08-17-away-cafe-cat.webp" />
 
-也附上今天早上去的星巴克，是個能觀察窗外路人的位子。
+也附上今天最先去的星巴克，一開始我坐在一個能觀察窗外路人的位子。
 
 <img width="1125" height="1486" alt="IMG_1709" src="/assets/img/2026-08-17-starbucks.webp" />
 
