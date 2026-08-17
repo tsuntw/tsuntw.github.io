@@ -3,6 +3,12 @@
 
 @import "minima";
 
+img {
+  max-width: 100%;
+  height: auto;
+  object-fit: contain;
+}
+
 .site-header {
   border-top: none;
 }
