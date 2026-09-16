@@ -51,8 +51,13 @@ a.post-link:visited {
 }
 
 .post-title {
-  font-size: 28px;
+  font-size: 30px;
   letter-spacing: initial;
+}
+
+.post-content h2 {
+  font-size: 24px;
+  color: #111111;
 }
 
 .post-content {
